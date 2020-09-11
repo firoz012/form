@@ -1,0 +1,62 @@
+.form-section form input{
+	text-align: center;
+	
+	font-size: 22px;
+}
+.form-section form type{
+	
+}
+.card-header{
+	background-color:#9c27b0;
+}
+.card-body{
+	background-color: #000912;
+	
+	
+}
+.bg{
+	background-color: transparent;
+	
+}
+
+.form-control{
+	color: red!important;
+}
+.but{
+	text-align: center;
+}
+.form-control {
+    color: white!important;
+}
+.social-icon{
+	text-align: center;
+}
+.social-icon ul li{
+	
+    list-style: none;
+    display: inline-block;
+    background-color: white;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    border-radius: 100%;
+    margin-top: 17px;
+    margin-left: 10px;
+    color: white;
+     transition: 0.5s;
+     color: black;
+   
+   
+
+}
+.social-icon ul li:hover{
+	 transform: scale(1.4);
+	 transition: 0.5s;
+	 background-color: orange;
+	 color:white;
+}
+dl, ol, ul {
+   
+    margin-bottom: 0px;
+    padding: 0px;
+}
